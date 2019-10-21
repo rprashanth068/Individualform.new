@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.myform{
+  border: 1px solid #52525B;
+  background-color: #cccccc;
+}
+
+.icons-align{
+  margin-top: 0px;
+  margin-left: -30px;
+}
+.main-container{
+  margin-top:50px;
+}
+.contact-header{
+  background-color: #000033;
+  height: 26px;
+  color: white;
+  font-size: 12px;
+  margin: 0;
+  padding: 5px;
+
+}
+
+.contact-toolbar{
+  background-color: #52525B;
+  height: 30px;
+  padding-left: 5px;
+  color: white;
+}
+
+.align-residence{
+  margin-top: 45px;
+}
+.custom-form-input{
+  margin-bottom: 0px!important;
+}
+
+.scroll-table{
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+.table td{
+  min-height: 49px;
+}
+
+.form-check-align{
+  margin-bottom: 20px;
+}
